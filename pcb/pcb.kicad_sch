@@ -2323,7 +2323,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 87.63 63.5 0)
 			(effects
 				(font
@@ -2391,7 +2391,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 87.63 97.79 0)
 			(effects
 				(font
@@ -2459,7 +2459,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 123.19 149.098 90)
 			(effects
 				(font
@@ -2659,7 +2659,7 @@
 				)
 			)
 		)
-		(property "Footprint" "L08R5000Q1:LEDRD254W57D500H1070"
+		(property "Footprint" "xiaorp2040:LEDRD254W57D500H1070"
 			(at 134.62 147.32 0)
 			(effects
 				(font
@@ -2848,7 +2848,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 123.19 161.798 90)
 			(effects
 				(font
@@ -2916,7 +2916,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 87.63 76.2 0)
 			(effects
 				(font
@@ -3050,7 +3050,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 123.19 174.498 90)
 			(effects
 				(font
@@ -3250,7 +3250,7 @@
 				)
 			)
 		)
-		(property "Footprint" "L08R5000Q1:LEDRD254W57D500H1070"
+		(property "Footprint" "xiaorp2040:LEDRD254W57D500H1070"
 			(at 134.62 160.02 0)
 			(effects
 				(font
@@ -3505,7 +3505,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 123.19 135.128 90)
 			(effects
 				(font
@@ -3705,7 +3705,7 @@
 				)
 			)
 		)
-		(property "Footprint" "L08R5000Q1:LEDRD254W57D500H1070"
+		(property "Footprint" "xiaorp2040:LEDRD254W57D500H1070"
 			(at 134.62 172.72 0)
 			(effects
 				(font
@@ -3894,7 +3894,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "xiaorp2040:RotaryEncoder_EC11"
 			(at 163.83 114.046 0)
 			(effects
 				(font
@@ -3971,7 +3971,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 87.63 87.63 0)
 			(effects
 				(font
@@ -4237,7 +4237,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Module:MOUDLE14P-XIAO-DIP-SMD"
+		(property "Footprint" "xiaorp2040:XIAO-RP2040-DIP"
 			(at 140.208 95.758 0)
 			(effects
 				(font
@@ -4341,7 +4341,7 @@
 				)
 			)
 		)
-		(property "Footprint" "L08R5000Q1:LEDRD254W57D500H1070"
+		(property "Footprint" "xiaorp2040:LEDRD254W57D500H1070"
 			(at 134.62 133.35 0)
 			(effects
 				(font
