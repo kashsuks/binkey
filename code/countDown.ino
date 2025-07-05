@@ -2,16 +2,20 @@
 CONSTANTS
 */
 
+// switches for the buttons
 const int BUT1 = 1;
 const int BUT2 = 2;
 const int BUT3 = 3;
 const int BUT4 = 4;
 
+
+// pinouts for the leds
 const int LED1 = 5;
 const int LED2 = 6;
 const int LED3 = 7;
 const int LED4 = 8;
 
+// rotary encoder stuff
 const int ENC_A = 9;
 const int ENC_B = 10;
 const int ENC_BTN = 11;
