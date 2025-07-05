@@ -96,8 +96,6 @@
 	(net 16 "Net-(U1-GPIO4{slash}MISO)")
 	(net 17 "unconnected-(U1-3V3-Pad12)")
 	(net 18 "unconnected-(U1-VBUS-Pad14)")
-	(net 19 "unconnected-(U1-VBUS-Pad14)_1")
-	(net 20 "unconnected-(U1-3V3-Pad12)_1")
 	(footprint "xiaorp2040:computer"
 		(layer "F.Cu")
 		(uuid "0575ebb7-c263-401b-9e7e-74be783bee57")
@@ -15149,7 +15147,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "C:/Users/ksuks/Downloads/rotary-encoder-17.snapshot.2/旋转编码器.STEP"
+		(model "/Users/ksukshavasi/Downloads/rotary-encoder-17.snapshot.2/旋转编码器.STEP"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -27975,15 +27973,15 @@
 				(xyz -0 -0 -0)
 			)
 		)
-		(model "C:/Users/ksuks/Downloads/b23b2af1c99153fe488ddd7cfa8304c6e30416d8_mx_ (2).step"
+		(model "/Users/ksukshavasi/Downloads/cherry-mx-switch-5.snapshot.2/MX .STEP"
 			(offset
-				(xyz 5 2 5)
+				(xyz 5 2 5.5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 90 -180 -0)
+				(xyz 90 180 -0)
 			)
 		)
 	)
@@ -28413,6 +28411,17 @@
 			(uuid "34b376d1-d0b7-41ee-b9f4-d84f6ae6fbf2")
 		)
 		(embedded_fonts no)
+		(model "/Users/ksukshavasi/Downloads/led-5mm-1.snapshot.6/LED 5mm.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "xiaorp2040:drum"
 		(layer "F.Cu")
@@ -33915,6 +33924,17 @@
 			(uuid "c10d8784-bc06-45be-b4dc-779a2105e5bc")
 		)
 		(embedded_fonts no)
+		(model "/Users/ksukshavasi/Downloads/led-5mm-1.snapshot.6/LED 5mm.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "xiaorp2040:orphSmall"
 		(layer "F.Cu")
@@ -36940,7 +36960,7 @@
 			(net 10 "Net-(U1-GPIO26{slash}ADC0{slash}A0)")
 			(pinfunction "GPIO26/ADC0/A0")
 			(pintype "passive")
-			(uuid "54f70419-305d-4c29-a8f4-dfc66bd6948e")
+			(uuid "152ffda4-1cf4-4b76-95a2-16e5d2eaa0cf")
 		)
 		(pad "2" smd roundrect
 			(at -8.455 -5.08 180)
@@ -36962,7 +36982,7 @@
 			(net 11 "Net-(U1-GPIO27{slash}ADC1{slash}A1)")
 			(pinfunction "GPIO27/ADC1/A1")
 			(pintype "passive")
-			(uuid "4d715fef-7585-42d0-b9d3-933dd08f6773")
+			(uuid "5ad9474e-4e67-49f7-81a1-f6b8baf77979")
 		)
 		(pad "3" smd roundrect
 			(at -8.455 -2.54 180)
@@ -36984,7 +37004,7 @@
 			(net 12 "Net-(U1-GPIO28{slash}ADC2{slash}A2)")
 			(pinfunction "GPIO28/ADC2/A2")
 			(pintype "passive")
-			(uuid "de5cb6ed-e71f-4b90-a013-be7d69e069b0")
+			(uuid "4f4e6bc5-0b7b-4097-8e8a-5ec70b30d9fd")
 		)
 		(pad "4" smd roundrect
 			(at -8.455 0 180)
@@ -37006,7 +37026,7 @@
 			(net 13 "Net-(U1-GPIO29{slash}ADC3{slash}A3)")
 			(pinfunction "GPIO29/ADC3/A3")
 			(pintype "passive")
-			(uuid "adedade9-beba-439a-9d88-3ecca29e6724")
+			(uuid "7636b198-5d7e-4687-9a79-625a8d1aeee4")
 		)
 		(pad "5" smd roundrect
 			(at -8.455 2.54 180)
@@ -37028,7 +37048,7 @@
 			(net 8 "Net-(U1-GPIO6{slash}SDA)")
 			(pinfunction "GPIO6/SDA")
 			(pintype "passive")
-			(uuid "aafa3f32-fdd5-455e-81b1-23e3e549e863")
+			(uuid "dd4e93e0-d0e4-4fbd-8007-0585d4342b36")
 		)
 		(pad "6" smd roundrect
 			(at -8.455 5.08 180)
@@ -37050,7 +37070,7 @@
 			(net 7 "Net-(U1-GPIO7{slash}SCL)")
 			(pinfunction "GPIO7/SCL")
 			(pintype "passive")
-			(uuid "abbf6e3f-02ac-44cc-b5d3-9612c1c212d3")
+			(uuid "4e6b61b9-39b1-4a7b-9a10-c30ab0df2073")
 		)
 		(pad "7" smd roundrect
 			(at -8.455 7.62 180)
@@ -37072,7 +37092,7 @@
 			(net 6 "Net-(U1-GPIO0{slash}TX)")
 			(pinfunction "GPIO0/TX")
 			(pintype "passive")
-			(uuid "6012760c-e9c7-470d-9939-10e66fc5792f")
+			(uuid "f5a02470-19d3-4290-86b0-ec16b846bdcc")
 		)
 		(pad "8" thru_hole circle
 			(at 7.62 7.62)
@@ -37094,7 +37114,7 @@
 			(pinfunction "GPIO1/RX")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "77f1fe31-a3d8-4f78-b0e4-4ec1d2455d1b")
+			(uuid "003dfeab-95b0-4fff-a734-d870faeb88f5")
 		)
 		(pad "9" thru_hole circle
 			(at 7.62 5.08)
@@ -37116,7 +37136,7 @@
 			(pinfunction "GPIO2/SCK")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "71803284-1b9d-427c-82fc-b2bf8ce82e50")
+			(uuid "792e03e8-9101-4166-9ade-a882d8e4f64d")
 		)
 		(pad "10" thru_hole circle
 			(at 7.62 2.54)
@@ -37138,7 +37158,7 @@
 			(pinfunction "GPIO4/MISO")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "f24a1e31-2dd8-4a9e-b7ab-90f07a5e24ae")
+			(uuid "8584ef3c-9679-4c15-a504-5838e73446fb")
 		)
 		(pad "11" thru_hole circle
 			(at 7.62 0)
@@ -37160,7 +37180,7 @@
 			(pinfunction "GPIO3/MOSI")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "c084a20c-c76f-444b-8de0-fb82393f72d2")
+			(uuid "f75a6526-dec8-4651-be77-2d961844da60")
 		)
 		(pad "12" thru_hole circle
 			(at 7.62 -2.54)
@@ -37178,11 +37198,11 @@
 			(size 2.432 1.524)
 			(layers "F.Cu" "F.Mask")
 			(roundrect_rratio 0.1)
-			(net 20 "unconnected-(U1-3V3-Pad12)_1")
+			(net 17 "unconnected-(U1-3V3-Pad12)")
 			(pinfunction "3V3")
 			(pintype "passive+no_connect")
 			(thermal_bridge_angle 45)
-			(uuid "70986615-0958-44de-b258-891c9815d19b")
+			(uuid "00346c5f-7b10-4485-b0bf-df9316483c8d")
 		)
 		(pad "13" thru_hole circle
 			(at 7.62 -5.08)
@@ -37204,7 +37224,7 @@
 			(pinfunction "GND")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "536e7fd4-b39d-432c-b16f-8196781aebda")
+			(uuid "0dbf520f-9483-4e2b-9c28-309abb5c4613")
 		)
 		(pad "14" thru_hole circle
 			(at 7.62 -7.62)
@@ -37222,73 +37242,14 @@
 			(size 2.432 1.524)
 			(layers "F.Cu" "F.Mask")
 			(roundrect_rratio 0.1)
-			(net 19 "unconnected-(U1-VBUS-Pad14)_1")
+			(net 18 "unconnected-(U1-VBUS-Pad14)")
 			(pinfunction "VBUS")
 			(pintype "passive+no_connect")
 			(thermal_bridge_angle 45)
-			(uuid "a7d15a85-0ec0-4115-8f2a-9c8310614a52")
+			(uuid "a27ac382-f563-498f-8b7a-0e9dd4c65cee")
 		)
 		(embedded_fonts no)
-		(model "${AMZPATH}/3dmodels/AMz3D.3dshapes/XIAO-nRF52840 v15.step"
-			(hide yes)
-			(offset
-				(xyz -1.778 -6.096 0.381)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -90 0 0)
-			)
-		)
-		(model "${AMZPATH}/3dmodels/AMz3D.3dshapes/Seeeduino XIAO SAMD21 v4.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "${AMZPATH}/3dmodels/AMz3D.3dshapes/Seeed Studio XIAO RP2040 v26.step"
-			(hide yes)
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 90)
-			)
-		)
-		(model "${AMZPATH}/3dmodels/AMz3D.3dshapes/Seeed Studio XIAO-ESP32-C3.step"
-			(hide yes)
-			(offset
-				(xyz -1.7018 -6.096 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -90 0 0)
-			)
-		)
-		(model "${AMZPATH}/3dmodels/AMz3D.3dshapes/XIAO-ESP32S3 v2.step"
-			(hide yes)
-			(offset
-				(xyz -1.778 -6.1722 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -90 0 0)
-			)
-		)
-		(model "C:/Users/ksuks/Downloads/ea4d5fbb7c8fc6a94362763d65bf844b92445756_seeed_studio_xiao_rp2040_v26.step"
+		(model "/Users/ksukshavasi/Downloads/seeed-studio-xiao-rp2040-1.snapshot.7/Seeed Studio XIAO RP2040 v26.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -44423,6 +44384,17 @@
 			(uuid "5ca644da-c9aa-4647-bc19-6f379d47472a")
 		)
 		(embedded_fonts no)
+		(model "/Users/ksukshavasi/Downloads/led-5mm-1.snapshot.6/LED 5mm.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "xiaorp2040:orphSmall"
 		(layer "F.Cu")
@@ -45314,15 +45286,15 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "C:/Users/ksuks/Downloads/b23b2af1c99153fe488ddd7cfa8304c6e30416d8_mx_ (2).step"
+		(model "/Users/ksukshavasi/Downloads/cherry-mx-switch-5.snapshot.2/MX .STEP"
 			(offset
-				(xyz 5 2 5)
+				(xyz 5 2 5.5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 90 -180 -0)
+				(xyz 90 180 -0)
 			)
 		)
 	)
@@ -47912,6 +47884,17 @@
 			(uuid "8ffd0034-5959-429d-b12a-88259b316105")
 		)
 		(embedded_fonts no)
+		(model "/Users/ksukshavasi/Downloads/led-5mm-1.snapshot.6/LED 5mm.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "xiaorp2040:orphSmall"
 		(layer "F.Cu")
